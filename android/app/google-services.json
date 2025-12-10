@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "820679207899",
+    "project_id": "goal-acd6f",
+    "storage_bucket": "goal-acd6f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820679207899:android:6f81dae4e745d2971a15fe",
+        "android_client_info": {
+          "package_name": "com.shadowbird.goal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820679207899-h4r1o9miumoqo37g54qn8uqufh0ljg4i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE7ppt5hibdwmlT0iX3NFATpHvdnvxqD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820679207899-h4r1o9miumoqo37g54qn8uqufh0ljg4i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
